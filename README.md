@@ -16,7 +16,7 @@ Open your terminal and follow the comment.
 
 *`cd EN-CRYPTED'
 
-* First time run the tool then './install` elis `ENCRYPTED.py`
+* First time run the tool then `./install` elis `ENCRYPTED.py`
 
 
 ------------------------------------------------------------------------
