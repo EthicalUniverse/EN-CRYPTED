@@ -14,9 +14,9 @@ Open your terminal and follow the comment.
 
 *`git clone https://github.com/EthicalUniverse/EN-CRYPTED`
 
-*`cd EN-CRYPTED'
+* `cd EN-CRYPTED'
 
-* First time run the tool then `./install` elis `ENCRYPTED.py`
+*  `ENCRYPTED.py`
 
 
 ------------------------------------------------------------------------
