@@ -16,7 +16,7 @@ Open your terminal and follow the comment.
 
 * `cd EN-CRYPTED`
 
-*  `ENCRYPTED.py`
+*  `python ENCRYPTED.py`
 
 
 ------------------------------------------------------------------------
