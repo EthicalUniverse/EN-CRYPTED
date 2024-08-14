@@ -12,9 +12,9 @@ Open your terminal and follow the comment.
 
 * `apt install python -y`
 
-*`git clone https://github.com/EthicalUniverse/EN-CRYPTED`
+* `git clone https://github.com/EthicalUniverse/EN-CRYPTED`
 
-* `cd EN-CRYPTED'
+* `cd EN-CRYPTED`
 
 *  `ENCRYPTED.py`
 
